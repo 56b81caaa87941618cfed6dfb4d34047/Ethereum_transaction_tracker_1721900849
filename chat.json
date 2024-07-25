@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great, implementing a sidebar with home, about and contact navlinks.",
+        "message_id": "guest25072024094758",
+        "timestamp": "25072024094759",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a sidebar that has the navlinks home, about and contact",
         "message_id": "guest25072024094758",
