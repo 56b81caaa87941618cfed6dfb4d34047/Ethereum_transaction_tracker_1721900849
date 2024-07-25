@@ -6,5 +6,11 @@
         "timestamp": "1721900853",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar that has the navlinks home, about and contact",
+        "timestamp": "25072024094758",
+        "message_id": "guest25072024094758"
     }
 ]
